@@ -1,0 +1,1 @@
+Implementation of online algorithm for simplifying digital pen input.
